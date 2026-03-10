@@ -1,0 +1,8 @@
+SpeechRecognition
+pynput
+sounddevice
+pyaudio
+opencv-python
+mediapipe
+pycaw
+comtypes
